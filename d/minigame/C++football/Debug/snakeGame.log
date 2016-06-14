@@ -1,0 +1,16 @@
+﻿  Main_1.cpp
+  food.cpp
+c:\users\diablo\desktop\dqd\snakegame\snakegame\gotoxy.h(7): warning C4838: 'int'에서 'SHORT'(으)로의 변환에는 축소 변환이 필요합니다.
+  IntroScene.cpp
+  map.cpp
+c:\users\diablo\desktop\dqd\snakegame\snakegame\gotoxy.h(7): warning C4838: 'int'에서 'SHORT'(으)로의 변환에는 축소 변환이 필요합니다.
+c:\users\diablo\desktop\dqd\snakegame\snakegame\map.cpp(124): warning C4244: '인수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  코드를 생성하고 있습니다...
+  컴파일하고 있습니다...
+  Wall.cpp
+  Snake.cpp
+c:\users\diablo\desktop\dqd\snakegame\snakegame\gotoxy.h(7): warning C4838: 'int'에서 'SHORT'(으)로의 변환에는 축소 변환이 필요합니다.
+  Object.cpp
+  Input.cpp
+  코드를 생성하고 있습니다...
+  snakeGame.vcxproj -> C:\Users\Diablo\Desktop\dqd\snakeGame\Debug\snakeGame.exe
